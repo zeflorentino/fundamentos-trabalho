@@ -1,7 +1,7 @@
 # fundamentos-trabalho
 Repositório com o trabalho da disciplina "Fundamentos e ética em jornalismo de dados" do Master em jornalismo de dados, automação e data storytelling do Insper
 
-O grupo é integrado por Ananda, José, Luana, Luize e Thaís. 
+O grupo é integrado por Ananda (@anandaridart), José, Luana, Luize (@luizesampaio) e Thaís (@thamatos). 
 
 As bases de dados utilizadas neste trabalho são fornecidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE), como parte da Pesquisa Nacional por Amostra de Domicílios Contínua Trimestral (PNADC/T). A amostragem traz indicadores trimestrais sobre a força de trabalho brasileiras divididas por variáveis básicas para se entender a evolução desse setor como rendimento médio, número de desempregagos, cor, sexo, ocupação entre outras. As amostragens foram atualizadas pelo IBGE no dia 12 de agosto deste ano. Dos diferentes indicadores fornecidos pela pesquisa o grupo escolheu duas bases: 
 
