@@ -81,7 +81,7 @@ EVO_PRE_PAR = Aumento ou redução (em pontos percentuais) da diferença percent
 
 ## **A tabela de ocupados e desocupados**
 
-A fim de entender se a disparidade entre raças se estende também para a população desocupada, baixamos a planilha de 6402 - Pessoas de 14 anos ou mais de idade, total, na força de trabalho, ocupadas, desocupadas, fora da força de trabalho, e respectivas taxas e níveis, por cor ou raça.
+A fim de entender se a disparidade entre raças se estende também para a população desocupada, baixamos a [planilha de 6402 - Pessoas de 14 anos ou mais de idade, total, na força de trabalho, ocupadas, desocupadas, fora da força de trabalho, e respectivas taxas e níveis, por cor ou raça.](https://github.com/zeflorentino/fundamentos-trabalho/files/9734522/Tabela.6402.-.Pessoas.de.14.anos.ou.mais.de.idade.total.na.forca.de.trabalho.ocupadas.desocupadas.fora.da.forca.de.trabalho.e.respectivas.taxas.e.niveis.por.cor.ou.raca.xlsx)
 
 Dentro dela, selecionamos três tabelas: Pessoas na força de trabalho, Pessoas ocupadas e Pessoas desocupadas. Na busca por trimestre, selecionamos os 2º trimestres de 2012 e 2022. 
 
