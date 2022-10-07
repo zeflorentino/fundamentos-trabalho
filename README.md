@@ -5,7 +5,7 @@ O grupo é integrado por Ananda, José, Luana, Luize e Thaís.
 
 As bases de dados utilizadas neste trabalho são fornecidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE), como parte da Pesquisa Nacional por Amostra de Domicílios Contínua Trimestral (PNADC/T). A amostragem traz indicadores trimestrais sobre a força de trabalho brasileiras divididas por variáveis básicas para se entender a evolução desse setor como rendimento médio, número de desempregagos, cor, sexo, ocupação entre outras. As amostragens foram atualizadas pelo IBGE no dia 12 de agosto deste ano. Dos diferentes indicadores fornecidos pela pesquisa o grupo escolheu duas bases: 
 
-A primeira base utilizada (6405) diz respeito ao [rendimento médio real, habitualmente recebido por mês e efetivamente recebido no mês de referência, do trabalho principal e de todos os trabalhos, por cor ou raça.[(https://sidra.ibge.gov.br/tabela/6405) Os valores estão expressos em reais (R$). 
+A primeira base utilizada (6405) diz respeito ao [rendimento médio real, habitualmente recebido por mês e efetivamente recebido no mês de referência, do trabalho principal e de todos os trabalhos, por cor ou raça.](https://sidra.ibge.gov.br/tabela/6405) Os valores estão expressos em reais (R$). 
 
 A segunda (6406) trata da [média de horas habitualmente trabalhadas por semana e efetivamente trabalhadas na semana de referência, no trabalho principal e em todos os trabalhos, das pessoas de 14 anos ou mais de idade, por cor ou raça.](https://sidra.ibge.gov.br/tabela/6406) Os valores estão expressos em horas. 
 
