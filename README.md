@@ -121,7 +121,7 @@ Com os dados de 2012, a ordem se repetiu, apenas de os índices de desocupação
 
 ## **Algumas respostas**
 
-* Hoje, a hora do trabalhador brasileiro vale em média R$ 12,40. Brancos ganham R$ 15,75 por hora; pretos, R$ 9,93; e pardos, R$ 10,50;
+* Hoje, a hora do trabalhador brasileiro vale em média R$ 15,23. Brancos ganham R$ 19,22 por hora; pretos, R$ 11,49; e pardos, R$ 11,84;
 * Brancos ganham consideravelmente mais do que pretos e pardos em todos os Estados e em ambos os períodos analisados;
 * Atualmente, a diferença no valor da hora trabalhada por brancos e pretos é maior no Distrito Federal, onde pretos recebem 51,1% a menos, e menor em Pernambuco, onde pretos ganham 19,4% a menos;
 * No caso dos pardos, a maior discrepância ocorre no Rio de Janeiro, onde eles ganham 42,1% a menos que os brancos. A menor diferença é observada em Rondônia (14,8% a menos);
